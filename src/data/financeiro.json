@@ -1,0 +1,27 @@
+[
+  {
+    "mes": "Jan",
+    "entrada": 4000,
+    "saida": 2500
+  },
+  {
+    "mes": "Fev",
+    "entrada": 3000,
+    "saida": 1800
+  },
+  {
+    "mes": "Mar",
+    "entrada": 5000,
+    "saida": 3200
+  },
+  {
+    "mes": "Abr",
+    "entrada": 4500,
+    "saida": 2800
+  },
+  {
+    "mes": "Mai",
+    "entrada": 6000,
+    "saida": 3500
+  }
+]
